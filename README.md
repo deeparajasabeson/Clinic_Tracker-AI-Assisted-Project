@@ -1,5 +1,8 @@
 # Clinic Appointment and Expense Tracker
 
+AI-Assisted Development from scratch. 
+Prompts are stored in "Prompts.md" 
+
 Work in progress. Only `check_entry` is built so far; everything else is an
 empty outline. No UI: parts are plain Python functions to be called from code
 or tests.
